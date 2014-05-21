@@ -1,4 +1,6 @@
-hexa_discourse_plugin
-=====================
+Hexahedra Forum Discourse Plugin
+================================
 
-Just something to hold the modifications for forum.hexahedra.net
+Just something to hold the modifications for forum.hexahedra.net.
+Based on the style of discuss.newrelic.com
+
