@@ -1,6 +1,6 @@
 # name: Hexahedra Forum Style
 # about: Make the category page look good
-# version: 0.2
+# version: 0.3
 # author: Nocte
 # minimum Discourse version: v0.9.9.6
 
